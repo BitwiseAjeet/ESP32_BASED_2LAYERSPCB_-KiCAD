@@ -1,0 +1,609 @@
+** Drc report for 2.kicad_pcb **
+** Created on 2025-07-21T00:01:35+0530 **
+
+** Found 132 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(100.5000 mm, 84.8725 mm): Via [GND] on F.Cu - B.Cu
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(102.9575 mm, 99.0925 mm): PTH pad B1 [GND] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(97.3575 mm, 99.0925 mm): PTH pad B12 [GND] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(155.3725 mm, 64.0600 mm): PTH pad 39 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(154.2725 mm, 64.0600 mm): PTH pad 38 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(155.9225 mm, 63.5100 mm): PTH pad 37 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(154.8225 mm, 63.5100 mm): PTH pad 36 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(153.7225 mm, 63.5100 mm): PTH pad 35 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(155.3725 mm, 62.9600 mm): PTH pad 34 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(154.2725 mm, 62.9600 mm): PTH pad 33 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(155.9225 mm, 62.4100 mm): PTH pad 32 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(154.8225 mm, 62.4100 mm): PTH pad 31 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(153.7225 mm, 62.4100 mm): PTH pad 30 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(155.3725 mm, 61.8600 mm): PTH pad 29 [GND] of U5
+[annular_width]: Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)
+    Rule: board setup constraints; error
+    @(154.2725 mm, 61.8600 mm): PTH pad 28 [GND] of U5
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0750 mm)
+    Rule: netclass 'Default'; error
+    @(70.5375 mm, 103.8525 mm): Track [/VBat] on F.Cu, length 0.5000 mm
+    @(70.5375 mm, 102.8525 mm): Pad 13 [Net-(U1-PROG1)] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(102.9575 mm, 99.0925 mm): PTH pad B1 [GND] of J1
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1500 mm)
+    Rule: netclass 'POWER '; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1500 mm)
+    Rule: netclass 'POWER '; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)
+    Rule: netclass 'Default'; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(97.3575 mm, 99.0925 mm): PTH pad B12 [GND] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)
+    Rule: netclass 'POWER '; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(100.5000 mm, 87.9725 mm): Pad 5 [/ESP32 C3/D-] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(100.0000 mm, 87.9725 mm): Pad 4 [/ESP32 C3/D+] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(101.3000 mm, 85.6725 mm): Pad 10 [unconnected-(U3-NC-Pad10)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(101.3000 mm, 86.1725 mm): Pad 9 [Net-(U3-~{RST})] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(101.3000 mm, 86.6725 mm): Pad 8 [Net-(U3-VBUS)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(101.3000 mm, 87.1725 mm): Pad 7 [+3.3V] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(99.0000 mm, 84.8725 mm): Pad 15 [/ESP32 C3/DTR] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(99.5000 mm, 84.8725 mm): Pad 14 [unconnected-(U3-SUSPEND-Pad14)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(100.0000 mm, 84.8725 mm): Pad 13 [unconnected-(U3-~{WAKEUP}-Pad13)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(98.2000 mm, 86.1725 mm): Pad 18 [/ESP32 C3/TX_RX] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(98.2000 mm, 85.6725 mm): Pad 17 [/ESP32 C3/RX_TX] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(98.2000 mm, 87.1725 mm): Pad 20 [Net-(U3-~{TXT}/GPIO.2)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(98.2000 mm, 86.6725 mm): Pad 19 [Net-(U3-~{RXT}/GPIO.3)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(99.7500 mm, 86.4225 mm): Pad 21 [GND] of U3 on F.Cu
+    @(99.0000 mm, 87.9725 mm): Pad 2 [unconnected-(U3-CLK/GPIO.0-Pad2)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(100.0000 mm, 84.8725 mm): Pad 13 [unconnected-(U3-~{WAKEUP}-Pad13)] of U3 on F.Cu
+    @(100.5000 mm, 84.8725 mm): Pad 12 [GND] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(100.5000 mm, 84.8725 mm): Pad 12 [GND] of U3 on F.Cu
+    @(101.0000 mm, 85.1725 mm): Pad 11 [unconnected-(U3-~{SUSPEND}-Pad11)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(101.3000 mm, 86.6725 mm): Pad 8 [Net-(U3-VBUS)] of U3 on F.Cu
+    @(101.3000 mm, 87.1725 mm): Pad 7 [+3.3V] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(101.0000 mm, 87.6725 mm): Pad 6 [+3.3V] of U3 on F.Cu
+    @(100.5000 mm, 87.9725 mm): Pad 5 [/ESP32 C3/D-] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(62.4300 mm, 50.1725 mm): Pad 8 [+3.3V] of U6 on F.Cu
+    @(62.4300 mm, 50.8225 mm): Pad 7 [GND] of U6 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(62.4300 mm, 50.8225 mm): Pad 7 [GND] of U6 on F.Cu
+    @(62.4300 mm, 51.4725 mm): Pad 6 [+3.3V] of U6 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(62.4300 mm, 51.4725 mm): Pad 6 [+3.3V] of U6 on F.Cu
+    @(62.4300 mm, 52.1225 mm): Pad 5 [GND] of U6 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(64.3700 mm, 51.4725 mm): Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu
+    @(64.3700 mm, 50.8225 mm): Pad 2 [+3.3V] of U6 on F.Cu
+[clearance]: Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(64.3700 mm, 50.8225 mm): Pad 2 [+3.3V] of U6 on F.Cu
+    @(64.3700 mm, 50.1725 mm): Pad 1 [GND] of U6 on F.Cu
+[drill_out_of_range]: Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.1000 mm)
+    Rule: netclass 'POWER '; error
+    @(100.5000 mm, 84.8725 mm): Via [GND] on F.Cu - B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(53.8000 mm, 46.6000 mm): Zone [GND] on B.Cu
+    @(97.3575 mm, 99.0925 mm): PTH pad B12 [GND] of J1
+[via_diameter]: Via diameter (board setup constraints min diameter 0.6000 mm; actual 0.2000 mm)
+    Rule: netclass 'POWER '; error
+    @(100.5000 mm, 84.8725 mm): Via [GND] on F.Cu - B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(58.3000 mm, 101.6775 mm): Track [<no net>] on F.Cu, length 1.9850 mm
+    @(58.3000 mm, 103.6625 mm): Pad S1 [<no net>] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(65.1000 mm, 103.6625 mm): Track [<no net>] on F.Cu, length 1.9850 mm
+    @(65.1000 mm, 103.6625 mm): Pad S2 [<no net>] of J3 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.4075 mm, 97.8425 mm): Pad A3 [unconnected-(J1-SSTXN1-PadA3)] of J1 on F.Cu
+    @(98.9075 mm, 97.8425 mm): Pad A4 [/VBUS] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.9075 mm, 97.8425 mm): Pad A4 [/VBUS] of J1 on F.Cu
+    @(99.4075 mm, 97.8425 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.4075 mm, 97.8425 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+    @(99.9075 mm, 97.8425 mm): Pad A6 [/USB_DP] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.9075 mm, 97.8425 mm): Pad A6 [/USB_DP] of J1 on F.Cu
+    @(100.4075 mm, 97.8425 mm): Pad A7 [/USB_DN] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.4075 mm, 97.8425 mm): Pad A7 [/USB_DN] of J1 on F.Cu
+    @(100.9075 mm, 97.8425 mm): Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.9075 mm, 97.8425 mm): Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu
+    @(101.4075 mm, 97.8425 mm): Pad A9 [/VBUS] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.4075 mm, 97.8425 mm): Pad A9 [/VBUS] of J1 on F.Cu
+    @(101.9075 mm, 97.8425 mm): Pad A10 [unconnected-(J1-SSRXN2-PadA10)] of J1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.9575 mm, 99.0925 mm): PTH pad B1 [GND] of J1
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.9575 mm, 99.0925 mm): PTH pad B1 [GND] of J1
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(102.5575 mm, 99.8025 mm): PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.7575 mm, 99.8025 mm): PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(102.1575 mm, 99.0925 mm): PTH pad G1 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.9575 mm, 99.8025 mm): PTH pad B5 [Net-(J1-CC2)] of J1
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(99.3575 mm, 99.8025 mm): PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.9575 mm, 99.0925 mm): PTH pad B9 [/VBUS] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(98.5575 mm, 99.8025 mm): PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(97.3575 mm, 99.0925 mm): PTH pad B12 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(97.3575 mm, 99.0925 mm): PTH pad B12 [GND] of J1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(97.7575 mm, 99.8025 mm): PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1
+    @(98.1575 mm, 99.0925 mm): PTH pad G2 [GND] of J1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(62.4300 mm, 50.1725 mm): Pad 8 [+3.3V] of U6 on F.Cu
+    @(62.4300 mm, 50.8225 mm): Pad 7 [GND] of U6 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(62.4300 mm, 50.8225 mm): Pad 7 [GND] of U6 on F.Cu
+    @(62.4300 mm, 51.4725 mm): Pad 6 [+3.3V] of U6 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(62.4300 mm, 51.4725 mm): Pad 6 [+3.3V] of U6 on F.Cu
+    @(62.4300 mm, 52.1225 mm): Pad 5 [GND] of U6 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(64.3700 mm, 52.1225 mm): Pad 4 [/ESP32 C3/SCL] of U6 on F.Cu
+    @(64.3700 mm, 51.4725 mm): Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(64.3700 mm, 51.4725 mm): Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu
+    @(64.3700 mm, 50.8225 mm): Pad 2 [+3.3V] of U6 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(64.3700 mm, 50.8225 mm): Pad 2 [+3.3V] of U6 on F.Cu
+    @(64.3700 mm, 50.1725 mm): Pad 1 [GND] of U6 on F.Cu
+
+** Found 25 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77.8150 mm, 106.2525 mm): Pad 2 [+5V] of FB1 on F.Cu
+    @(79.5350 mm, 106.2525 mm): Track [+5V] on F.Cu, length 1.6125 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71.4750 mm, 100.9150 mm): Pad 10 [GND] of U1 on F.Cu
+    @(70.4000 mm, 100.2000 mm): Track [GND] on F.Cu, length 1.4000 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.7500 mm, 86.4225 mm): Via [GND] on F.Cu - B.Cu
+    @(99.5000 mm, 87.9725 mm): Pad 3 [GND] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(106.4000 mm, 95.5725 mm): Pad 2 [GND] of C5 on F.Cu
+    @(103.8000 mm, 97.2000 mm): Via [GND] on F.Cu - B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(138.6050 mm, 60.3550 mm): Track [GND] on F.Cu, length 1.4400 mm
+    @(141.6050 mm, 58.7350 mm): Track [GND] on F.Cu, length 1.1243 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(137.4000 mm, 63.0000 mm): Via [GND] on F.Cu - B.Cu
+    @(143.4400 mm, 68.7600 mm): Track [GND] on F.Cu, length 1.1879 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(101.4075 mm, 97.8425 mm): Track [/VBUS] on F.Cu, length 0.9020 mm
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(101.3575 mm, 99.0925 mm): PTH pad B4 [/VBUS] of J1
+    @(98.9575 mm, 99.0925 mm): Track [/VBUS] on F.Cu, length 0.1047 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(110.8000 mm, 86.5500 mm): Track [Net-(U3-VBUS)] on F.Cu, length 2.3875 mm
+    @(101.3000 mm, 86.6725 mm): Pad 8 [Net-(U3-VBUS)] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75.9000 mm, 62.5725 mm): Pad 2 [Net-(C16-Pad2)] of C16 on F.Cu
+    @(77.8000 mm, 65.1725 mm): Pad 1 [Net-(C16-Pad2)] of R23 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77.8000 mm, 65.1725 mm): Pad 1 [Net-(C16-Pad2)] of R23 on F.Cu
+    @(90.1125 mm, 63.4000 mm): Pad 2 [Net-(C16-Pad2)] of R22 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93.4000 mm, 66.9225 mm): Pad 1 [Net-(U7-IN-)] of C17 on F.Cu
+    @(96.2000 mm, 66.8850 mm): Pad 1 [Net-(U7-IN-)] of R28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(90.3600 mm, 65.7500 mm): Pad 3 [Net-(U7-IN-)] of U7 on F.Cu
+    @(93.4000 mm, 66.9225 mm): Pad 1 [Net-(U7-IN-)] of C17 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84.3150 mm, 64.4525 mm): Pad 1 [Net-(U7-IN-)] of R26 on F.Cu
+    @(90.3600 mm, 65.7500 mm): Pad 3 [Net-(U7-IN-)] of U7 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88.4400 mm, 65.7500 mm): Pad 4 [/ESP32 C3/MIC_OUT] of U7 on F.Cu
+    @(93.2000 mm, 60.6000 mm): Track [/ESP32 C3/MIC_OUT] on F.Cu, length 4.2225 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(125.0825 mm, 106.4082 mm): Track [/ESP32 C3/EN] on F.Cu, length 0.2232 mm
+    @(124.8825 mm, 102.4250 mm): Track [/ESP32 C3/EN] on F.Cu, length 2.9522 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82.4875 mm, 69.7225 mm): Pad 2 [Net-(U7-IN+)] of R24 on F.Cu
+    @(84.3125 mm, 66.7725 mm): Pad 1 [Net-(U7-IN+)] of R25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(90.3600 mm, 67.0500 mm): Pad 1 [Net-(U7-IN+)] of U7 on F.Cu
+    @(84.3125 mm, 66.7725 mm): Pad 1 [Net-(U7-IN+)] of R25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75.9000 mm, 67.9725 mm): Pad 2 [Net-(U7-IN+)] of C22 on F.Cu
+    @(82.4875 mm, 69.7225 mm): Pad 2 [Net-(U7-IN+)] of R24 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77.8000 mm, 67.9725 mm): Pad 1 [Net-(C22-Pad1)] of C22 on F.Cu
+    @(75.9750 mm, 65.1725 mm): Pad 2 [Net-(C22-Pad1)] of R23 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75.9750 mm, 65.1725 mm): Pad 2 [Net-(C22-Pad1)] of R23 on F.Cu
+    @(69.1225 mm, 65.4225 mm): PTH pad OUT [Net-(C22-Pad1)] of MK1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.9075 mm, 96.8528 mm): Track [/USB_DP] on F.Cu, length 0.9897 mm
+    @(100.5575 mm, 99.0925 mm): PTH pad B6 [/USB_DP] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.7575 mm, 99.0925 mm): PTH pad B7 [/USB_DN] of J1
+    @(100.4075 mm, 96.9925 mm): Track [/USB_DN] on F.Cu, length 0.8500 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(63.1250 mm, 72.7725 mm): Pad 1 [Net-(LED4-K)] of LED4 on F.Cu
+    @(66.0000 mm, 72.7725 mm): Pad 2 [Net-(LED4-K)] of R6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(123.2700 mm, 98.4250 mm): Pad 2 [Net-(Q2-B)] of R29 on F.Cu
+    @(123.2825 mm, 95.1625 mm): Pad 1 [Net-(Q2-B)] of Q2 on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

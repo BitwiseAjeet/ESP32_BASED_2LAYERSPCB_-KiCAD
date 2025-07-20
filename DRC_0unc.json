@@ -1,0 +1,2813 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2025-07-21T00:38:46+0530",
+    "kicad_version": "9.0.2",
+    "schematic_parity": [],
+    "source": "2.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.842649,
+                        "y": 96.157351
+                    },
+                    "uuid": "8be96f14-96f2-45fa-9428-1191cb635d9b"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 99.4,
+                        "y": 94.974
+                    },
+                    "uuid": "c9d96d03-0acc-4aec-a5dc-9dc034492dc0"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "Via [GND] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "b90f8915-cbf5-43da-a5c6-ff40466d2bbc"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B1 [GND] of J1",
+                    "pos": {
+                        "x": 102.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "75b8a765-c1a7-4fb8-a493-c48d30fa6ae5"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B12 [GND] of J1",
+                    "pos": {
+                        "x": 97.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "4254b590-a6d8-4059-aa67-08be74678a4f"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 39 [GND] of U5",
+                    "pos": {
+                        "x": 155.3725,
+                        "y": 64.06
+                    },
+                    "uuid": "5999c4bc-2ac6-4bbe-a5bc-9211c2a27a90"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 38 [GND] of U5",
+                    "pos": {
+                        "x": 154.2725,
+                        "y": 64.06
+                    },
+                    "uuid": "09ed682b-d3fc-4b58-b69b-a0c42051de0c"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 37 [GND] of U5",
+                    "pos": {
+                        "x": 155.9225,
+                        "y": 63.51
+                    },
+                    "uuid": "8267ea5a-41ae-4947-9929-408d2eeadddd"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 36 [GND] of U5",
+                    "pos": {
+                        "x": 154.8225,
+                        "y": 63.51
+                    },
+                    "uuid": "e218842f-1a9a-4931-a060-28e501b409bd"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 35 [GND] of U5",
+                    "pos": {
+                        "x": 153.7225,
+                        "y": 63.51
+                    },
+                    "uuid": "31373e71-1b93-4116-b2b6-3333927b24f7"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 34 [GND] of U5",
+                    "pos": {
+                        "x": 155.3725,
+                        "y": 62.96
+                    },
+                    "uuid": "592cfbe5-23d7-4c14-93d7-af92ef094d5d"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 33 [GND] of U5",
+                    "pos": {
+                        "x": 154.2725,
+                        "y": 62.96
+                    },
+                    "uuid": "cb08d877-16db-439c-9a22-492923ce4c0d"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 32 [GND] of U5",
+                    "pos": {
+                        "x": 155.9225,
+                        "y": 62.41
+                    },
+                    "uuid": "efcb7c46-c002-4f0d-aef5-04da97ab8040"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 31 [GND] of U5",
+                    "pos": {
+                        "x": 154.8225,
+                        "y": 62.41
+                    },
+                    "uuid": "3e57c0d9-245d-4206-81ca-6e63c4e3fcbe"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 30 [GND] of U5",
+                    "pos": {
+                        "x": 153.7225,
+                        "y": 62.41
+                    },
+                    "uuid": "8422c6e9-daab-4634-9c69-ac22cc2ee5b5"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 29 [GND] of U5",
+                    "pos": {
+                        "x": 155.3725,
+                        "y": 61.86
+                    },
+                    "uuid": "c94bcc0c-ff7f-436a-a9d1-d566012afdea"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Annular width (board setup constraints min annular width 0.1500 mm; actual 0.0500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 28 [GND] of U5",
+                    "pos": {
+                        "x": 154.2725,
+                        "y": 61.86
+                    },
+                    "uuid": "c55a2fe8-c958-41c8-ba72-3be169371ee2"
+                }
+            ],
+            "severity": "error",
+            "type": "annular_width"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0750 mm)",
+            "items": [
+                {
+                    "description": "Track [/VBat] on F.Cu, length 0.5000 mm",
+                    "pos": {
+                        "x": 70.5375,
+                        "y": 103.8525
+                    },
+                    "uuid": "36600d7a-efc9-42e6-9d94-225247a6bcea"
+                },
+                {
+                    "description": "Pad 13 [Net-(U1-PROG1)] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.5375,
+                        "y": 102.8525
+                    },
+                    "uuid": "5874c056-fc04-4e04-b931-d6432a1eaffb"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B1 [GND] of J1",
+                    "pos": {
+                        "x": 102.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "75b8a765-c1a7-4fb8-a493-c48d30fa6ae5"
+                },
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                },
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad B12 [GND] of J1",
+                    "pos": {
+                        "x": 97.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "4254b590-a6d8-4059-aa67-08be74678a4f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.1649 mm)",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 5 [/ESP32 C3/D-] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 87.9725
+                    },
+                    "uuid": "45ff5d43-09e4-400e-b24b-45ba105659f9"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 4 [/ESP32 C3/D+] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.0,
+                        "y": 87.9725
+                    },
+                    "uuid": "9f59aaa8-639b-40d8-b5f7-d101d840574f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 20 [Net-(U3-~{TXT}/GPIO.2)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 98.2,
+                        "y": 87.1725
+                    },
+                    "uuid": "2bcb8855-fac1-4516-9b4a-663db93deb7b"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 19 [Net-(U3-~{RXT}/GPIO.3)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 98.2,
+                        "y": 86.6725
+                    },
+                    "uuid": "c126a424-4844-43e0-ad1a-cd47b2116f7b"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 18 [/ESP32 C3/TX_RX] of U3 on F.Cu",
+                    "pos": {
+                        "x": 98.2,
+                        "y": 86.1725
+                    },
+                    "uuid": "11730a30-7819-4014-b856-e2a18c840031"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 10 [unconnected-(U3-NC-Pad10)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.3,
+                        "y": 85.6725
+                    },
+                    "uuid": "150c4665-57f2-403f-b3cd-0d9d88779d7c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 9 [Net-(U3-~{RST})] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.3,
+                        "y": 86.1725
+                    },
+                    "uuid": "82494ab4-e711-402e-a1a5-fb568d52c122"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 8 [Net-(U3-VBUS)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.3,
+                        "y": 86.6725
+                    },
+                    "uuid": "fcbb98f6-1bf7-4673-a301-378f5a501542"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 15 [/ESP32 C3/DTR] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.0,
+                        "y": 84.8725
+                    },
+                    "uuid": "c5d2efa4-b072-47b6-9de2-cf5434633d60"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 14 [unconnected-(U3-SUSPEND-Pad14)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "4658b571-3446-43fd-9a59-68511e220582"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 17 [/ESP32 C3/RX_TX] of U3 on F.Cu",
+                    "pos": {
+                        "x": 98.2,
+                        "y": 85.6725
+                    },
+                    "uuid": "7ce9a1f7-0784-4923-a13f-4340862148bf"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 13 [unconnected-(U3-~{WAKEUP}-Pad13)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.0,
+                        "y": 84.8725
+                    },
+                    "uuid": "3ea1a824-8653-4f46-b86c-174d7b381734"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 21 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 99.75,
+                        "y": 86.4225
+                    },
+                    "uuid": "f29f4442-6105-43cd-a6de-e0471457f591"
+                },
+                {
+                    "description": "Pad 7 [+3.3V] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.3,
+                        "y": 87.1725
+                    },
+                    "uuid": "78ee87c8-c999-4b8d-a284-a1039424e69c"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 13 [unconnected-(U3-~{WAKEUP}-Pad13)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.0,
+                        "y": 84.8725
+                    },
+                    "uuid": "3ea1a824-8653-4f46-b86c-174d7b381734"
+                },
+                {
+                    "description": "Pad 12 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "8ab02237-36ed-406e-a263-f49747dd1b69"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 12 [GND] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "8ab02237-36ed-406e-a263-f49747dd1b69"
+                },
+                {
+                    "description": "Pad 11 [unconnected-(U3-~{SUSPEND}-Pad11)] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.0,
+                        "y": 85.1725
+                    },
+                    "uuid": "8b8713d3-e42b-4f82-a97e-cbc4426f3689"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 6 [+3.3V] of U3 on F.Cu",
+                    "pos": {
+                        "x": 101.0,
+                        "y": 87.6725
+                    },
+                    "uuid": "1930c7d8-1ce4-4726-9d06-1d82fb5fab7f"
+                },
+                {
+                    "description": "Pad 5 [/ESP32 C3/D-] of U3 on F.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 87.9725
+                    },
+                    "uuid": "45ff5d43-09e4-400e-b24b-45ba105659f9"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 8 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.1725
+                    },
+                    "uuid": "8033bfde-191c-490a-beaa-d3419c36b7ed"
+                },
+                {
+                    "description": "Pad 7 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.8225
+                    },
+                    "uuid": "0374f4a2-8a3e-4ebb-a10c-626e086e1d08"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 7 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.8225
+                    },
+                    "uuid": "0374f4a2-8a3e-4ebb-a10c-626e086e1d08"
+                },
+                {
+                    "description": "Pad 6 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 51.4725
+                    },
+                    "uuid": "fafa64dd-a40b-4ece-bb56-f1cca5ed4726"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 6 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 51.4725
+                    },
+                    "uuid": "fafa64dd-a40b-4ece-bb56-f1cca5ed4726"
+                },
+                {
+                    "description": "Pad 5 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 52.1225
+                    },
+                    "uuid": "617dbf9f-5e76-48ad-b5a0-20c5959e2294"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 51.4725
+                    },
+                    "uuid": "7ddeeb1d-0d4e-4b39-9107-5244ac779e27"
+                },
+                {
+                    "description": "Pad 2 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.8225
+                    },
+                    "uuid": "ccb6dc99-a0cb-4c0d-88ed-3ae62ceb7d8f"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'POWER ' clearance 0.2500 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.8225
+                    },
+                    "uuid": "ccb6dc99-a0cb-4c0d-88ed-3ae62ceb7d8f"
+                },
+                {
+                    "description": "Pad 1 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.1725
+                    },
+                    "uuid": "d6b3b5cb-32a7-4dac-8f1d-9aa8c9fdebc2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.842649,
+                        "y": 96.157351
+                    },
+                    "uuid": "8be96f14-96f2-45fa-9428-1191cb635d9b"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 99.4,
+                        "y": 94.974
+                    },
+                    "uuid": "c9d96d03-0acc-4aec-a5dc-9dc034492dc0"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.1000 mm)",
+            "items": [
+                {
+                    "description": "Via [GND] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "b90f8915-cbf5-43da-a5c6-ff40466d2bbc"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Via diameter (board setup constraints min diameter 0.6000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.842649,
+                        "y": 96.157351
+                    },
+                    "uuid": "8be96f14-96f2-45fa-9428-1191cb635d9b"
+                }
+            ],
+            "severity": "error",
+            "type": "via_diameter"
+        },
+        {
+            "description": "Via diameter (board setup constraints min diameter 0.6000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Via [/USB_DN] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 99.4,
+                        "y": 94.974
+                    },
+                    "uuid": "c9d96d03-0acc-4aec-a5dc-9dc034492dc0"
+                }
+            ],
+            "severity": "error",
+            "type": "via_diameter"
+        },
+        {
+            "description": "Via diameter (board setup constraints min diameter 0.6000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "Via [GND] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 100.5,
+                        "y": 84.8725
+                    },
+                    "uuid": "b90f8915-cbf5-43da-a5c6-ff40466d2bbc"
+                }
+            ],
+            "severity": "error",
+            "type": "via_diameter"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [<no net>] on F.Cu, length 1.9850 mm",
+                    "pos": {
+                        "x": 58.3,
+                        "y": 101.6775
+                    },
+                    "uuid": "f204e5d3-ec43-4604-9d3b-3f1bf19c608d"
+                },
+                {
+                    "description": "Pad S1 [<no net>] of J3 on F.Cu",
+                    "pos": {
+                        "x": 58.3,
+                        "y": 103.6625
+                    },
+                    "uuid": "d46a3cb5-1a95-462e-b037-f8308ff88d98"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [<no net>] on F.Cu, length 1.9850 mm",
+                    "pos": {
+                        "x": 65.1,
+                        "y": 103.6625
+                    },
+                    "uuid": "7b501f94-613b-4d1b-b251-dd8a24c9f0fc"
+                },
+                {
+                    "description": "Pad S2 [<no net>] of J3 on F.Cu",
+                    "pos": {
+                        "x": 65.1,
+                        "y": 103.6625
+                    },
+                    "uuid": "1b5bf115-3a08-4a0d-b13e-eb0cbf2536fe"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A4 [/VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 98.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "0e994fa5-3b78-469e-8be5-d2276f8e0218"
+                },
+                {
+                    "description": "Pad A5 [Net-(J1-CC1)] of J1 on F.Cu",
+                    "pos": {
+                        "x": 99.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "2f09310b-43fb-413d-b90d-2e21b8452261"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A5 [Net-(J1-CC1)] of J1 on F.Cu",
+                    "pos": {
+                        "x": 99.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "2f09310b-43fb-413d-b90d-2e21b8452261"
+                },
+                {
+                    "description": "Pad A6 [/USB_DP] of J1 on F.Cu",
+                    "pos": {
+                        "x": 99.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "2d560e01-4afb-4003-859e-e2871e31b42a"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A6 [/USB_DP] of J1 on F.Cu",
+                    "pos": {
+                        "x": 99.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "2d560e01-4afb-4003-859e-e2871e31b42a"
+                },
+                {
+                    "description": "Pad A7 [/USB_DN] of J1 on F.Cu",
+                    "pos": {
+                        "x": 100.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "72d3a301-c139-4f62-af7e-34de2557cde5"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A7 [/USB_DN] of J1 on F.Cu",
+                    "pos": {
+                        "x": 100.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "72d3a301-c139-4f62-af7e-34de2557cde5"
+                },
+                {
+                    "description": "Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu",
+                    "pos": {
+                        "x": 100.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "0ab2b9cc-2c42-447f-a1e1-264731d57a99"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A8 [unconnected-(J1-SBU1-PadA8)] of J1 on F.Cu",
+                    "pos": {
+                        "x": 100.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "0ab2b9cc-2c42-447f-a1e1-264731d57a99"
+                },
+                {
+                    "description": "Pad A9 [/VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 101.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "c66e1a2b-eaf9-490d-8c9b-ed17519bea5f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad A9 [/VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 101.4075,
+                        "y": 97.8425
+                    },
+                    "uuid": "c66e1a2b-eaf9-490d-8c9b-ed17519bea5f"
+                },
+                {
+                    "description": "Pad A10 [unconnected-(J1-SSRXN2-PadA10)] of J1 on F.Cu",
+                    "pos": {
+                        "x": 101.9075,
+                        "y": 97.8425
+                    },
+                    "uuid": "3a8eb3aa-d53a-4c7c-b199-870a563e6af9"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B1 [GND] of J1",
+                    "pos": {
+                        "x": 102.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "75b8a765-c1a7-4fb8-a493-c48d30fa6ae5"
+                },
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B1 [GND] of J1",
+                    "pos": {
+                        "x": 102.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "75b8a765-c1a7-4fb8-a493-c48d30fa6ae5"
+                },
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B2 [unconnected-(J1-SSTXP2-PadB2)] of J1",
+                    "pos": {
+                        "x": 102.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b78fb57f-e401-4fe9-b37f-484820f63e74"
+                },
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B3 [unconnected-(J1-SSTXN2-PadB3)] of J1",
+                    "pos": {
+                        "x": 101.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "d9a79184-7be1-433c-95a8-dd513d36c616"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad G1 [GND] of J1",
+                    "pos": {
+                        "x": 102.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "1609ec11-f047-4c6d-ae32-f0a730826fa8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B4 [/VBUS] of J1",
+                    "pos": {
+                        "x": 101.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "43105434-f42b-4d98-8386-d79adc53bb42"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B5 [Net-(J1-CC2)] of J1",
+                    "pos": {
+                        "x": 100.9575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cccd4156-8bd0-4743-bfd2-b4d25ae68885"
+                },
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                },
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B6 [/USB_DP] of J1",
+                    "pos": {
+                        "x": 100.5575,
+                        "y": 99.0925
+                    },
+                    "uuid": "c79bc971-2e29-4bde-a1ae-1fd09b2820ed"
+                },
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B7 [/USB_DN] of J1",
+                    "pos": {
+                        "x": 99.7575,
+                        "y": 99.0925
+                    },
+                    "uuid": "5fb24402-5157-4f5a-b621-6b4ca4baf345"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B8 [unconnected-(J1-SBU2-PadB8)] of J1",
+                    "pos": {
+                        "x": 99.3575,
+                        "y": 99.8025
+                    },
+                    "uuid": "cd86e469-f908-4b6c-a832-3971c1f475dd"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B9 [/VBUS] of J1",
+                    "pos": {
+                        "x": 98.9575,
+                        "y": 99.0925
+                    },
+                    "uuid": "d1aeccde-6906-486c-a52d-c73206a9340c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B10 [unconnected-(J1-SSRXN1-PadB10)] of J1",
+                    "pos": {
+                        "x": 98.5575,
+                        "y": 99.8025
+                    },
+                    "uuid": "b214162a-b3c2-437d-a35f-8de8382df1a6"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad B12 [GND] of J1",
+                    "pos": {
+                        "x": 97.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "4254b590-a6d8-4059-aa67-08be74678a4f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad B12 [GND] of J1",
+                    "pos": {
+                        "x": 97.3575,
+                        "y": 99.0925
+                    },
+                    "uuid": "4254b590-a6d8-4059-aa67-08be74678a4f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Rear solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad B11 [unconnected-(J1-SSRXP1-PadB11)] of J1",
+                    "pos": {
+                        "x": 97.7575,
+                        "y": 99.8025
+                    },
+                    "uuid": "59b72e40-4ece-4adc-98fc-ef2da4103a7c"
+                },
+                {
+                    "description": "PTH pad G2 [GND] of J1",
+                    "pos": {
+                        "x": 98.1575,
+                        "y": 99.0925
+                    },
+                    "uuid": "0e6c84bb-36ca-4580-ae59-befe91e55415"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 8 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.1725
+                    },
+                    "uuid": "8033bfde-191c-490a-beaa-d3419c36b7ed"
+                },
+                {
+                    "description": "Pad 7 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.8225
+                    },
+                    "uuid": "0374f4a2-8a3e-4ebb-a10c-626e086e1d08"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 7 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 50.8225
+                    },
+                    "uuid": "0374f4a2-8a3e-4ebb-a10c-626e086e1d08"
+                },
+                {
+                    "description": "Pad 6 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 51.4725
+                    },
+                    "uuid": "fafa64dd-a40b-4ece-bb56-f1cca5ed4726"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 6 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 51.4725
+                    },
+                    "uuid": "fafa64dd-a40b-4ece-bb56-f1cca5ed4726"
+                },
+                {
+                    "description": "Pad 5 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 62.43,
+                        "y": 52.1225
+                    },
+                    "uuid": "617dbf9f-5e76-48ad-b5a0-20c5959e2294"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 4 [/ESP32 C3/SCL] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 52.1225
+                    },
+                    "uuid": "570e4f8f-a98e-4918-8149-c4f173704938"
+                },
+                {
+                    "description": "Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 51.4725
+                    },
+                    "uuid": "7ddeeb1d-0d4e-4b39-9107-5244ac779e27"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 3 [/ESP32 C3/sDA] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 51.4725
+                    },
+                    "uuid": "7ddeeb1d-0d4e-4b39-9107-5244ac779e27"
+                },
+                {
+                    "description": "Pad 2 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.8225
+                    },
+                    "uuid": "ccb6dc99-a0cb-4c0d-88ed-3ae62ceb7d8f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 2 [+3.3V] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.8225
+                    },
+                    "uuid": "ccb6dc99-a0cb-4c0d-88ed-3ae62ceb7d8f"
+                },
+                {
+                    "description": "Pad 1 [GND] of U6 on F.Cu",
+                    "pos": {
+                        "x": 64.37,
+                        "y": 50.1725
+                    },
+                    "uuid": "d6b3b5cb-32a7-4dac-8f1d-9aa8c9fdebc2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        }
+    ]
+}
