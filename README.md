@@ -62,13 +62,13 @@ This repository contains the complete **KiCad project files** for a **2-layer ES
 ## 📁 Repository Structure
 
 ESP32_BASED_2LAYERSPCB_-KiCAD/
-├── 2.kicad_pro # Main KiCad project file
-├── 2.kicad_sch # Schematic design
-├── 2.kicad_pcb # PCB layout file
-├── 2.kicad_prl # Project local settings
-├── .gitignore # KiCad-specific ignore rules
-├── README.md # Project documentation
-└── [supporting files] # Additional KiCad assets
+├── 2.kicad_pro # Main KiCad project file 
+├── 2.kicad_sch # Schematic design 
+├── 2.kicad_pcb # PCB layout file 
+├── 2.kicad_prl # Project local settings 
+├── .gitignore # KiCad-specific ignore rules 
+├── README.md # Project documentation 
+└── [supporting files] # Additional KiCad assets 
 
 text
 
