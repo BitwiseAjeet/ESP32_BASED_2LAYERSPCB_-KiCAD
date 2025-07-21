@@ -152,7 +152,7 @@ This PCB design is suitable for:
 ## 🔍 Manufacturing Analysis & Verification
 
 ### **PCBA DFM Analysis Results**
-[documentation/images](https://github.com/BitwiseAjeet/ESP32_BASED_2LAYERSPCB_-KiCAD/tree/main/documentation)
+[[documentation/images](https://github.com/BitwiseAjeet/ESP32_BASED_2LAYERSPCB_-KiCAD/tree/main/documentation)](https://github.com/BitwiseAjeet/ESP32_BASED_2LAYERSPCB_-KiCAD/blob/main/documentation/images/DFM.png)
 *Professional PCBA manufacturing analysis showing design compliance and cost optimization*
 
 ### **Manufacturing Readiness Summary**
