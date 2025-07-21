@@ -152,7 +152,7 @@ This PCB design is suitable for:
 ## 🔍 Manufacturing Analysis & Verification
 
 ### **PCBA DFM Analysis Results**
-![DFM Analysis](documentation/images/dfm_analysis.png)
+documentation/images
 *Professional PCBA manufacturing analysis showing design compliance and cost optimization*
 
 ### **Manufacturing Readiness Summary**
