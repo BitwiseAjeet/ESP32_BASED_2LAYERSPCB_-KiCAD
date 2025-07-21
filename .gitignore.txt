@@ -1,0 +1,32 @@
+# KiCad backup and temporary files
+*.bak
+*-bak
+_autosave-*
+*-backups/
+*.tmp
+*.cache/
+fp-info-cache
+
+# KiCad generated files
+*.net
+*.xml
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Reports and logs
+*.rpt
+*.log
+DRC*
+*.drl
+
+# Freerouter temporary files
+freerouting/
+temp-freerouting/
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Keep but consider ignoring project settings
+# *.kicad_prl
